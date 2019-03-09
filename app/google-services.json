@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637873205225",
+    "firebase_url": "https://halflife-eeff0.firebaseio.com",
+    "project_id": "halflife-eeff0",
+    "storage_bucket": "halflife-eeff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637873205225:android:c118d4300e3bbf67",
+        "android_client_info": {
+          "package_name": "com.codeManiac.bloodDonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637873205225-8tdf8ah97jt9dcr6pif8evfblp5cjrtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeManiac.bloodDonor",
+            "certificate_hash": "b41a09bf94409c5e9a83509c65ee0697069a098e"
+          }
+        },
+        {
+          "client_id": "637873205225-c8pgple3r2k7jl90guejpru4l8l5f7sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-wYzadQMJT5Dgb-quz15kIEaoV-5BnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637873205225-c8pgple3r2k7jl90guejpru4l8l5f7sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
